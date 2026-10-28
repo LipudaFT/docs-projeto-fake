@@ -1,0 +1,18 @@
+site_name: Projeto Fake - Documentação
+site_description: Documentação de estudo de um projeto fictício de dados
+repo_url: https://github.com/LipudaFT/docs-projeto-fake
+
+theme:
+  name: material
+  language: pt-BR
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+
+nav:
+  - Início: index.md
+  - Arquitetura: arquitetura.md
+  - Guias:
+      - Como rodar o projeto: guias/como-rodar.md
