@@ -14,5 +14,6 @@ theme:
 nav:
   - Início: index.md
   - Arquitetura: arquitetura.md
+  - Como foi feito: como-foi-feito.md
   - Guias:
       - Como rodar o projeto: guias/como-rodar.md
